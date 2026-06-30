@@ -1,4 +1,4 @@
-# 💼 Job Board Application
+# 💼HireHub: Job Board Application
 
 A full-stack Job Board web application that connects recruiters and job seekers on a single platform. Recruiters can post and manage job openings, while candidates can search, view, and apply for jobs with resume uploads.
 
