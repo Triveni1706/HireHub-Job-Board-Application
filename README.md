@@ -191,15 +191,15 @@ Add screenshots of your application here.
 
 ### Home Page
 
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/home.jpeg)
 
 ### Job Listings
 
-![Jobs](screenshots/jobs.png)
+![Jobs](screenshots/jobs.jpeg)
 
 ### Recruiter Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.jpeg)
 
 ---
 
